@@ -24,7 +24,7 @@ Resources:
 * [Announcements mailing list](http://groups.google.com/group/raplet-announce)
   (low volume, only used for important updates -- please subscribe)
 * [Raplet developer discussion list](http://groups.google.com/group/raplet-dev)
-* Inofficial tutorial using PHP
+* Unofficial tutorial using PHP
   ([intro](http://blog.rutwick.com/building-raplets-get-started-from-here),
   [part 1](http://blog.rutwick.com/raplets-tutorial-part-1-hello-world),
   [part 2](http://blog.rutwick.com/raplets-tutorial-part-2-add-javascript-to-you-raplet),
