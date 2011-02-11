@@ -1,0 +1,70 @@
+#header
+  position: relative
+  color: #666666
+  padding: 20px 0 0 0
+  width: 940px
+
+  h1
+    width: 220px
+    height: 44px
+    text-indent: -9999px
+    background: none
+    margin: 0
+
+    a
+      width: 220px
+      height: 44px
+      background-image: url(../images/rapportive-other-pages.png)
+      margin-top: 0
+      text-indent: -9999px
+      display: block
+
+  #nav
+    position: absolute
+    top: 15px
+    right: 0px
+    font-family: "Lucida Grande", Arial, sans-serif
+
+    li
+      display: inline
+      font-size: 1.2em
+      // Not sure why the following has to be 16 and not 20
+      margin: 1em 0 0 16px
+      text-transform: lowercase
+
+      a
+        display: inline-block
+        padding: 0.7em 0
+        text-decoration: none
+        margin: 0
+        color: black
+        width: 100px
+        +border-radius(5px)
+        text-align: center
+        &:hover
+          background-color: #6890d0
+          color: white
+
+      &.selected a
+        background-color: #3e67a9
+        color: white
+
+  #sub-nav
+    float: left
+    font: 1.2em / 2 AllerLightRegular, "Lucida Grande", Arial, sans-serif
+    background-color: #e2edfe
+    padding: 20px 20px 10px 20px
+    width: 220px
+    +border-radius(5px)
+    margin-top: 31px
+    top: 0
+
+    li
+      line-height: 1.4
+      margin-bottom: 0.9em
+
+      a
+        text-decoration: none
+        color: #3e67a9
+        &.active
+          color: black

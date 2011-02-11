@@ -1,0 +1,34 @@
+=border-radius($radius)
+  -moz-border-radius: $radius
+  -webkit-border-radius: $radius
+  border-radius: $radius
+
+=box-shadow($shadow)
+  -moz-box-shadow: $shadow
+  -webkit-box-shadow: $shadow
+  box-shadow: $shadow
+
+=user-select($select)
+  -moz-user-select: $select
+  -webkit-user-select: $select
+  user-select: $select
+
+=vertical-upwards
+  -webkit-transform: rotate(-90deg)
+  -moz-transform: rotate(-90deg)
+  -o-transform: rotate(30deg)
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3)
+
+=clearfix
+  &:after
+    content: "."
+    display: block
+    height: 0
+    clear: both
+    visibility: hidden
+
+=vertical-gradient($color1, $color2)
+  background: $color1
+  background: -webkit-gradient(linear, left top, left bottom, from($color1), to($color2))
+  background: -moz-linear-gradient(top, $color1, $color2)
+  //filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='!color1', endColorstr='!color2')
