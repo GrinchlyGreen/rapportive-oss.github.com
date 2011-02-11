@@ -10,8 +10,8 @@ Rapportive Code
 Welcome to the [Rapportive](http://rapportive.com/) developer site!
 
 
-Raplets Platform
-----------------
+Raplet Platform
+---------------
 
 Raplets let you take data you have about people, and show it in Gmail next to your email
 conversations. The basic API is super simple. You could be pulling information from your
