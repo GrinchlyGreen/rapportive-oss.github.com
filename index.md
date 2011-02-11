@@ -42,10 +42,6 @@ developers and maintainers of all those great tools and libraries.
 From time to time, when appropriate, we release code from Rapportive as open source
 [on GitHub](https://github.com/rapportive-oss). Here are some featured projects:
 
-* [Deferrable Gratification](https://github.com/samstokes/deferrable_gratification)
-  (Ruby, written by [Sam](https://github.com/samstokes)):  
-  Turns your asynchronous code from a hairy mess of callbacks into elegant, composable patterns.
-
 * [Ampex](https://github.com/rapportive-oss/ampex)
   (Ruby, written by [Conrad](https://github.com/ConradIrwin)):  
   Now you can write anonymous blocks in Ruby with less syntactic noise.
@@ -57,3 +53,7 @@ From time to time, when appropriate, we release code from Rapportive as open sou
 * [Git Bits](https://github.com/rapportive-oss/git-bits)
   (Bash scripts and other languages, written by all of us):  
   Assorted Git utilities and higher-level commands to support our workflows.
+
+* [Deferrable Gratification](https://github.com/samstokes/deferrable_gratification)
+  (Ruby, written by [Sam](https://github.com/samstokes)):  
+  Turns your asynchronous code from a hairy mess of callbacks into elegant, composable patterns.
