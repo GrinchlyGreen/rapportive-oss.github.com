@@ -30,6 +30,7 @@ Resources:
   [part 2](http://blog.rutwick.com/raplets-tutorial-part-2-add-javascript-to-you-raplet),
   [part 3](http://blog.rutwick.com/raplets-tutorial-part-3-add-metadata-section-to-your-raplet))
   by Rutwick Gangurde
+* Customisable LDAP raplet, using the configuration protocol ([github](https://github.com/craig552uk/LDAP-Raplet)) by Craig Russell
 
 
 
