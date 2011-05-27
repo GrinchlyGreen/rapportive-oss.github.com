@@ -24,6 +24,7 @@ Resources:
 * [Announcements mailing list](http://groups.google.com/group/raplet-announce)
   (low volume, only used for important updates -- please subscribe)
 * [Raplet developer discussion list](http://groups.google.com/group/raplet-dev)
+* [Ruby (Sinatra + DataMapper) Raplet template](https://github.com/rapportive-oss/raplet-template)
 * Unofficial tutorial using PHP
   ([intro](http://blog.rutwick.com/building-raplets-get-started-from-here),
   [part 1](http://blog.rutwick.com/raplets-tutorial-part-1-hello-world),
